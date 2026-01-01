@@ -27,7 +27,7 @@ Focused on creating intelligent systems and scalable products.
 ## Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,jupyter,figma,vercel,arduino" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,jupyter,figma,vercel,arduino" />
 </p>
 
 ---
@@ -35,15 +35,11 @@ Focused on creating intelligent systems and scalable products.
 ## GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Jrdheeraj&show_icons=true&theme=tokyonight&hide_border=true" 
-    alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jrdheeraj&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jrdheeraj&layout=compact&theme=tokyonight&hide_border=true" 
-    alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jrdheeraj&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
